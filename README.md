@@ -11,47 +11,31 @@
 
 ## Skills
 
-<div>
-    <div>
-        <h3>Web</h3>
-        <p>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-        </p>
-    </div>
-    <div>
-        <h3>Software Development</h3>
-        <p>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-        </p>
-    </div>
-    <div>
-        <h3>Mobile</h3>
-        <p>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" alt="Kotlin" />
-        </p>
-    </div>
-    <div>
-        <h3>Database</h3>
-        <p>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" />
-        </p>
-    </div>
-    <div>
-        <h3>Other Skills</h3>
-        <p>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-        </p>
-    </div>
-</div>
+ <p>
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" alt="C" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" alt="Kotlin" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+ </p>
+
+## Some Projects
+| **<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20" alt="JavaScript" /> - [YuGiOh - JoKenPo](https://github.com/c-Alvinn/js-jokenpo-yugioh)** | **<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="20" height="20" alt="Kotlin" /> - [Flow Copy](https://github.com/c-Alvinn/Flow-Free-Copy)** |
+|:---:|:---:|
+| <a href="https://github.com/c-Alvinn/js-jokenpo-yugioh"><img src="https://github.com/c-Alvinn/c-Alvinn/assets/141906500/b7a2220c-81f9-4676-85b6-91b12300749a"/></a> | <a href="https://github.com/c-Alvinn/Flow-Free-Copy"><img src="https://github.com/c-Alvinn/c-Alvinn/assets/141906500/356dde82-0fec-4b04-a05b-d3e0a24e49d2"/></a> |
+
+| **<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20" height="20" alt="Java" /> - [Franquia de Hospitais](https://github.com/c-Alvinn/Franquia-Hospitais)** | **<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20" height="20" alt="Java" /> - [Banco Digital](https://github.com/c-Alvinn/dio-java-desafio-banco-digital)** |
+|:---:|:---:|
+| <a href="https://github.com/c-Alvinn/Franquia-Hospitais"><img src="https://github.com/c-Alvinn/c-Alvinn/assets/141906500/374555b6-974c-4773-b319-eb77532ed506"/></a> | <a href="https://github.com/c-Alvinn/dio-java-desafio-banco-digital"><img src="https://github.com/c-Alvinn/c-Alvinn/assets/141906500/d0196ab0-453c-41b3-9649-02566ec07bc1"/></a> |
 
 ## I'm learning
 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
 
 ## Contacts
 
